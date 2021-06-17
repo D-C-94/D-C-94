@@ -1,5 +1,5 @@
   - Hi, I’m Devan.
-  - I’m interested in data analysis, coding, and cooking.
+  - I’m interested in data analysis, coding, scripting languages, and using these tools to explore and describe data in a simple and effective way.
   - I’m self taught in SQL and python and striving to learn more every day.
 
 
